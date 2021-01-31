@@ -1,0 +1,17 @@
+.book {
+  background-color: #E3E0CF;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 20px;
+}
+.book p {
+  font-size: 16px;
+  
+}
+ul {
+ margin: 0;
+ padding: 0;
+}
+li{
+  list-style: none;
+}
